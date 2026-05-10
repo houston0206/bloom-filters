@@ -1,6 +1,6 @@
-# (_TODO: fill in the title of this assignment here!_)
+# Bloom Filters
 
-Authors: (_TODO: fill in your names here!_)
+Authors: Emory Chien, El Houston
 
 ## Build commands
 
@@ -10,6 +10,5 @@ Authors: (_TODO: fill in your names here!_)
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
-*   ...
+*   Project page: https://osera.cs.grinnell.edu/ttap/data-structures-labs/malicious-url-detector.html
+*   Integrated GitHub Copilot AI agent
