@@ -2,6 +2,8 @@
 
 Authors: Emory Chien, El Houston
 
+Note: We removed the .csv file from this repo because we could not commit otherwise.
+
 ## Build commands
 
 *   Compilation and execution: `mvn compile exec:java`.
